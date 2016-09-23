@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\user401.STUD\Desktop\Проект\Unit4.dfm=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\user401.STUD\Desktop\Проект\Unit3.dfm=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.146,=D:\Новая папка (2)\Projec1t\Проект Шелковников пи-142\Unit8.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\user401.STUD\Desktop\Проект\Unit2.dfm=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\user401.STUD\Desktop\Проект\Unit3.pas=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\user401.STUD\Desktop\Проект\Unit1.pas=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\user401.STUD\Desktop\Проект\Unit2.pas=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\user401.STUD\Desktop\Проект\Unit4.pas=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\user401.STUD\Desktop\Проект\Unit1.dfm=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.846,=C:\Users\xxxD\Desktop\Проект\Unit6.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Users\user401.STUD\Desktop\Проект\Unit5.pas=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.574,=D:\Новая папка (2)\Projec1t\Проект Шелковников пи-142\Unit7.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Users\user401.STUD\Desktop\Проект\Unit5.dfm=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dproj,C:\Users\user401.STUD\Desktop\Проект\Project1.dproj=C:\Users\user401.STUD\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit5.pas"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit7.pas"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit8.pas"/>
+    <File Path="Unit8.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
